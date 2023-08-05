@@ -9,6 +9,11 @@ header{
 }
 h1{
     color:white;
-    
     font-size: 70px;
+}
+#LinkTitulo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }

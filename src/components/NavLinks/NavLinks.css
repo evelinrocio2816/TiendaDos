@@ -3,7 +3,7 @@
    display: flex;
     justify-content: center;
     align-items: center;
-   background-color: slateblue;
+   background-color: slategrey;
     gap: 1rem;
 }
 li{
