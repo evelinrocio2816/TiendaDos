@@ -11,7 +11,7 @@ const Contador = () => {
      const restar =()=>{
         setContador(contador-1)
      }
-     const reset =()=>{
+     const reset =()=>{ 
         setContador(0)
      }
 
