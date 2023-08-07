@@ -1,8 +1,11 @@
 .btnContador{
     background-color: rgb(80, 146, 211);
     color: white;
-    padding: 10px;
+    padding-left:10px;
+    padding-right: 10px;
+   margin-bottom: 15px;
     gap: 3rem;
+  
    
 }
 .btnContainer{
@@ -10,9 +13,16 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 350px;
+    width: 300px;
+    border: 2px solid black;
+    margin-top: 3rem;
+    
 }
 .botones{
     display:inline-flex;
-    gap: 1rem;
+    gap: .5rem;
+    
+}
+.imgProducto{
+    width: 200px;
 }
