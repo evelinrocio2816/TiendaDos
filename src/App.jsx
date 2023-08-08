@@ -5,13 +5,15 @@ import NavBar from './components/NavBar/NavBar'
 
 import Contador from './components/Contador/Contador'
 
+
 function App() {
   return (
     <>
     
     <NavBar/>
-    <Contador/>
-    <ItemListContainer greeting={"Hola Mundo esto es Greeting"}/>
+    
+    <ItemListContainer greeting={"Alimentos para Tu Mascota"}/>
+    
     <Footer/>
     </>
   )
